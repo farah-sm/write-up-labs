@@ -9,3 +9,6 @@ This directory contains files to run Prometheus in a container.
 
 ```bash
 ./docker-run.sh
+
+
+Access Prometheus at http://localhost:9090
