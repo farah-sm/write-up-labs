@@ -2,6 +2,8 @@
 
 This repository contains my personal notes and templates for setting up **Prometheus** on a Linux system, using both `systemd` for long-running, production-grade service management and **Docker** for flexible, isolated environments. It is intended to serve as a reliable source of truth for anyone looking to deploy Prometheus or similar services.
 
+![Prometheus(1)](https://github.com/user-attachments/assets/4a51bdd6-aac6-484b-9e2a-21291edd7939)
+
 ## What’s Included:
 **Prometheus systemd setup**: A secure and reliable way to run Prometheus as a background service on Linux.
 - **Docker setup for Prometheus**: A simple, portable approach to run Prometheus in a Docker container.
