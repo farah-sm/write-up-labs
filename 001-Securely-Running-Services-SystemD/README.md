@@ -23,11 +23,3 @@ prometheus-setup/
 
 1. **For systemd**: Follow the instructions in the `blog.md` to set up Prometheus using `systemd` on your Linux server.
 2. **For Docker**: Use the `docker/prometheus.yml` and the instructions in `blog.md` to run Prometheus in a Docker container.
-
-## License:
-
-MIT License. See [LICENSE](./LICENSE) for details.
-
----
-
-If you have any questions or run into any issues, feel free to open an issue or submit a pull request!
