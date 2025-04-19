@@ -52,4 +52,4 @@ If everything is configured correctly, you should see a list of pods in your clu
 
 ## 📖 For a Deeper Dive
 
-Check out [`blog.md`](./blog.md) for a detailed walkthrough of the entire setup, including code commentary, context, and best practices when working with `client-go`.
+Check out [`blog.md`]([https://secengweekly.substack.com/p/connecting-to-kubernetes-api-programmatically]) for a detailed walkthrough of the entire setup, including code commentary, context, and best practices when working with `client-go`.
